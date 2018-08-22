@@ -1,2 +1,2 @@
 # jandj-eparcel-template
-This is Jono and Johno official neto to eBay Eparcel template created by Don Roland Diaz.
+This is Jono and Johno official neto to eBay Eparcel Template created by Don Roland Diaz.
